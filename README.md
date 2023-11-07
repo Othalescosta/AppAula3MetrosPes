@@ -1,10 +1,11 @@
 # AppAula3MetrosPes
 
-Aula1Calculadora
-Sobre o projeto
+
+Sobre o projeto:
+
 Aplicativo de Metros para Pés.
 
-Layout mobile:
+
 
 
 
